@@ -22,7 +22,7 @@ def fourth_challenge
       :matriarch => {name: "Lady Capulet", age: "51"},
       :heroine => {name: "Juliet", age: "15", status: "alive"},
       :heroine_friends => [
-          { name: "Benvolio" , 
+          { name: "Steven" , 
           age: "17" ,
           attitude: "worried"
           
